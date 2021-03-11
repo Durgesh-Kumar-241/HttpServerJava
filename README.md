@@ -2,10 +2,10 @@
 Developin a single file  full functional http server with java.
 
 
-Server2.java
-Multiple client support at the same time
-Supports file download as well as file upload
-Single file
+#Server2.java
+Multiple client support at the same time,
+Supports file download as well as file upload,
+Single file,
 
-Client.java
+#Client.java
 supports file download as well as file upload.
